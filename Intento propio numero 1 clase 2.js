@@ -22,5 +22,4 @@ function showCharacterLengs(namelist){
  console.log(namelist);
  git // es un copntrolador de versiones es cmom un google drive que te guarda todo tu codigo y lo va versionando 
 }
-showCharacterLengs(names);
-
+showCharacterLengs(names); "mira señor un cambio"
